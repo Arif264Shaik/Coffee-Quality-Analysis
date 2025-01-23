@@ -45,3 +45,6 @@ The dataset includes:
   ## License
 
   - This project is for educational purposes only and does not have a formal license.
+ 
+  ## Power BI file is too large to upload in GitHub, Download it from below link👇
+  https://drive.usercontent.google.com/download?id=1RhSI0-k5YKF3fJzXPfjbLzTylWQhMALe&export=download&authuser=0
